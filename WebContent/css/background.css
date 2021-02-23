@@ -1,0 +1,10 @@
+@charset "UTF-8";
+div {
+    height: 700px;
+    background: linear-gradient(to top right, #33ccff 0%, #ff99cc 100%)
+}
+
+center {
+  margin: auto;
+  width: 60%;
+}
